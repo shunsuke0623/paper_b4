@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{Deng:2015:MSF:2735960.2735972}
+Peng Deng, Fabio Cremona, Qi~Zhu, Marco Di~Natale, and Haibo Zeng.
+\newblock A {Model-based} {Synthesis} {Flow} for {Automotive} {CPS}.
+\newblock In {\em Proceedings of the ACM/IEEE Sixth International Conference on
+  Cyber-Physical Systems}, ICCPS '15, pages 198--207, New York, NY, USA, 2015.
+  ACM.
+
+\bibitem{6871195}
+Peng Deng, Qi~Zhu, M.~Di~Natale, and Haibo Zeng.
+\newblock Task {synthesis} for {latency-sensitive} {synchronous} {block}
+  {diagram}.
+\newblock In {\em Industrial Embedded Systems (SIES), 2014 9th IEEE
+  International Symposium on}, pages 112--121, June 2014.
+
+\bibitem{4550788}
+R.~Lublinerman and S.~Tripakis.
+\newblock {Modular} {Code} {Generation} from {Triggered} and {Timed} {Block}
+  {Diagrams}.
+\newblock In {\em Real-Time and Embedded Technology and Applications Symposium,
+  2008. RTAS '08. IEEE}, pages 147--158, April 2008.
+
+\bibitem{Lublinerman:2009:MCG:1480881.1480893}
+Roberto Lublinerman, Christian Szegedy, and Stavros Tripakis.
+\newblock {Modular} {Code} {Generation} {from} {Synchronous} {Block}
+  {Diagrams}: {Modularity} vs. {Code Size}.
+\newblock In {\em Proceedings of the 36th Annual ACM SIGPLAN-SIGACT Symposium
+  on Principles of Programming Languages}, POPL '09, pages 78--89, New York,
+  NY, USA, 2009. ACM.
+
+\bibitem{Ptolemaeus:14:SystemDesign}
+Claudius Ptolemaeus, editor.
+\newblock {\em System Design, Modeling, and Simulation using Ptolemy II}.
+\newblock Ptolemy.org, 2014.
+
+\end{thebibliography}
